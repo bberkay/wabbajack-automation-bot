@@ -9,6 +9,7 @@
 </p>
 <hr>
 <img src = "https://i.ibb.co/TbP27Py/preview.png">
+<small>Preview</small>
 <hr>
 <a href = "https://drive.google.com/file/d/1d4yfr1ba_zioAPNGzQ9tpBuAOHP6rYwT/view?usp=sharing">For download exe click</a><br>
 <i>For Run EXE: "dist/wabbajack-automation-bot/wabbajack-automation-bot.exe"</i>
