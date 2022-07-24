@@ -6,4 +6,6 @@
 <b>NOTE 2   :</b> Before leaving your computer, make sure bot can find "slow download" button if bot can't find then you must replace "button.png" to new button("slow download") screenshot for example look button.png in files, your slow download button and button.png must same.<br>
 <b>NOTE 3   :</b> "You" must close bot when all mods are downloaded.
 </p>
-<a href = "https://drive.google.com/file/d/1ESz3ArzGmO9K89ONlh8KjwIzwJ8APuD4/view?usp=sharing">For download exe click</a>
+<hr>
+<a href = "https://drive.google.com/file/d/1ESz3ArzGmO9K89ONlh8KjwIzwJ8APuD4/view?usp=sharing">For download exe click</a><br>
+<i>For Run EXE: "dist/wabbajack-automation-bot/wabbajack-automation-bot.exe"</i>
