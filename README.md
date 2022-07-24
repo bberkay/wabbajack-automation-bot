@@ -1,5 +1,5 @@
 <h2>Wabbajack Automation Bot</h2>
-<small>created with <a href = "https://pypi.org/project/PyAutoGUI/">pyautogui</a></small>
+<small><i>created with <a href = "https://pypi.org/project/PyAutoGUI/">pyautogui</a></i></small>
 <h3>SETUP</h3>
 <p>
 <b>NOTE 1   :</b> You can't use pc while bot working because bot will control your cursor(mouse).<br>
