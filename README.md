@@ -8,7 +8,7 @@
 <b>NOTE 4   :</b> "You" must close bot when all mods are downloaded.
 </p>
 <hr>
-![alt text](https://drive.google.com/file/d/1b0qyQDYCvYGOnf-rLqb7stNKpJMp9nAm/view?usp=sharing)
+<img src = "https://ibb.co/SdVyMVS">
 <hr>
 <a href = "https://drive.google.com/file/d/1d4yfr1ba_zioAPNGzQ9tpBuAOHP6rYwT/view?usp=sharing">For download exe click</a><br>
 <i>For Run EXE: "dist/wabbajack-automation-bot/wabbajack-automation-bot.exe"</i>
